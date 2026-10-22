@@ -115,7 +115,17 @@ Note: the pricing summary and the Practice Standards version both need checking 
 | D4 | Data hosting | Australian region for all participant data (strongest buyer comfort; check cost) |
 | D5 | Legal review budget | Yes. Templates and AI prompts need a lawyer or qualified compliance consultant before launch |
 | D6 | Team | You (product), one full-stack engineer, a contract compliance advisor |
-| D7 | Brand and domain | Ozzieai.com.au, product name "NDIS Wizard". Check trademark availability for "NDIS Wizard" before launch |
+| D7 | Brand and domain | Ozzieai.com.au. Product name is open: see D8 |
+| D8 | Product name collision | Do not launch under "NDIS Wizard" on Ozzieai.com.au while a live product of that name is marketed on the same domain. Pick a distinct name for this readiness product, then run a full IP Australia search and a clearance review |
+
+## 8a. Existing product with the same name (found 2026-10-22)
+
+A live offering called "NDIS Wizard by Ozzie AI" is marketed at ozzieai.com.au/ndis. Public posts describe it as a team of 13 AI agents that plug into existing provider software (ShiftCare, Visual Care, Brevity, Lumary, Xero, MYOB). It is a different product from this plan, per the owner.
+
+Implications:
+- Two products with one name on one domain will confuse buyers and create support and legal risk. Resolve before any outreach that names the product.
+- The IP Australia quick search for "NDIS Wizard" returned no records on 2026-10-22. That result is not clearance. A full search and attorney review are still required.
+- Treat the live agent product as a competitor for provider budgets and as a potential integration partner. Document its claims separately before comparing.
 
 ## 9. Not yet known (to find out in Phase 0)
 
