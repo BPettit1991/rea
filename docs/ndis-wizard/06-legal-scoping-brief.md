@@ -59,6 +59,13 @@ Ask counsel for:
 
 13. **Entity structure.** Should the product sit in a separate company from Linkhaus to isolate liability and IP? Does that affect the brand choice (07-brand-options.md)?
 14. **Brand and name.** Can "NDIS" appear in a product trade mark? Is a full IP Australia search and attorney clearance review the right next step? Our quick search found no records for the shortlisted names, which is not clearance.
+14a. **Housekeep sound-alike risk (proposed product name Hauskeep).** Housekeep (housekeep.com) is an active UK home-cleaning marketplace with a large public presence. The Australian quick search found no Housekeep trade mark, but the name may still trade in Australia. Questions:
+   - Does Housekeep trade or have goodwill in Australia? If so, could it claim passing off or misleading conduct against a name that sounds the same?
+   - Is the risk materially higher because both names sit in consumer-facing service markets? (Our customers are NDIS providers, not households, but the names are close in sound.)
+   - Should we choose a different name before any trade mark filing, or can we manage the risk through spelling, trade dress and disclaimers?
+   - What search scope (phonetic variants, classes 9, 35, 42, 44) and what evidence of Housekeep's Australian use would counsel need before advising?
+   - Does the Linkhaus trade mark filing (question 14b) change the answer?
+14b. **Linkhaus trade mark.** The quick search found no Linkhaus records. Which classes should we file in before the product name is public? Does filing order matter when the product mark is the one that carries the market?
 15. **Contractor IP.** The compliance advisor and any engineers will be contractors. What IP assignment and confidentiality terms do we need?
 16. **Insurance.** What professional indemnity and cyber cover do we need before a pilot?
 
