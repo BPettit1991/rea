@@ -38,7 +38,10 @@ Hard rule: no build work starts on FR-3 (AI drafts) or FR-4 (incidents) before t
 | 0.7 | Choose the AI model host and region. Confirm Australian hosting is possible at a workable cost (decision D4) | Engineer | Hosting decision record |
 
 ### Phase 0 exit gate
-- At least 5 providers have agreed in writing to a paid or priced pilot. (If fewer than 3, stop or pivot before building. Record the reason.)
+- Proceed: 5 or more providers agree in writing to a paid or priced pilot. Written means a signed pilot agreement or letter of intent that states a price and a start date.
+- Conditional commitments (for example, pending an IT review) are recorded separately. They do not count toward the 5 until the condition clears.
+- Proceed with conditions: 3 or 4 written commitments, with at least one in a named segment. Before Phase 1 hiring, name the segment and the two further commitments needed to reach 5.
+- Stop or pivot: fewer than 3 written commitments. Record the reason before building.
 - 0.3 and 0.4 are complete. 0.5 is answered (even if the answer is "not in v1").
 - Decisions D1 to D7 are recorded in the repository.
 
@@ -52,6 +55,7 @@ Built in four two-week sprints, each ending with a working, demoable slice.
 - Onboarding wizard steps 1 to 4 (FR-1)
 - Rule pack format: versioned data files for indicators, incident rules, holidays
 - Audit log (append-only)
+- Spike (2 days): rostering and HR data import feasibility for medium providers (PRD Q6). Output is a yes, no or partial decision with the blocking constraints.
 
 Demo: a new owner signs up, completes the wizard, and sees their profile.
 
@@ -113,7 +117,7 @@ Extension candidates, ranked by pilot evidence (not chosen now):
 1. Claim-file export (only if 0.5 confirmed the channel)
 2. Price-update workflow with alerts when the NDIS price year changes
 3. Read-only auditor access (time-limited share links)
-4. Integrations with rostering or accounting tools (after pilot demand is clear)
+4. Integrations with rostering or accounting tools (after pilot demand is clear; the Phase 1 spike in Sprint 1 sets the rostering and HR decision)
 
 ## 6. Team and roles
 

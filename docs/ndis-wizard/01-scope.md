@@ -90,7 +90,8 @@ Note: the pricing summary and the Practice Standards version both need checking 
 
 ## 6. Success measures for the scope
 
-- Phase 0: at least 10 provider interviews, and at least 5 with a paid or letter-of-intent pilot.
+- Phase 0: at least 10 provider interviews, and at least 5 with a paid or letter-of-intent pilot. Plan section 2 defines the 3 to 4 commitment band.
+- Requests logged in Phase 0 (billing and invoicing, participant budgets, participant service agreements, rostering integration) go to the Phase 2 list. They are not Phase 1 work.
 - Phase 1: 5 pilot providers complete onboarding and the gap assessment within 60 minutes, and 3 keep using it weekly for 30 days.
 - Incident register: 100% of test incidents show the correct reporting deadline and portal.
 

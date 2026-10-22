@@ -198,6 +198,9 @@ Track events for funnel steps only. No participant data in analytics.
 - Q3: Should the product support plan-managed or self-managed participants' records, or only provider-side compliance? (Current answer: provider-side only.)
 - Q4: Retention period for records (default 7 years, confirm).
 - Q5: Whether the AI draft model may be hosted by a third party outside Australia. (Affects D4.)
+- Q6: Which system matters most to medium providers (rostering, HR, or both), and does the answer change the medium-tier decision? Raised in the Phase 0 rehearsal. Validate in real interviews before Phase 1 scope is fixed.
+- Q7: Is the consultant a competitor, a sales channel, or out of scope? Decides positioning before any FR-3 messaging is written.
+- Q8: Who buys for medium providers: owner, coordinator, CEO or general manager, or board? Decides the onboarding approval flow and the trial design.
 
 ## 9. Release gates (not optional)
 

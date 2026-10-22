@@ -17,6 +17,7 @@ Rules:
 5. Ask "What happened next?" and "How did you know?" after any claim about a process.
 6. Never ask for participant names, NDIS numbers, or any identifying detail of a participant. If one is volunteered, stop the person, do not write it down, and note "participant detail given, not recorded".
 7. Record each interview with consent, or take notes only if they decline. Delete the recording after transcription (within 30 days, or sooner if the participant asks).
+8. Keep questions on compliance. If a participant raises invoicing, plan-managed billing or participant budgets, say that the study covers compliance only, note the point under Quotes or Hypotheses, and return to the question. Do not discuss those features.
 
 ## 2. Before the call
 
@@ -72,7 +73,7 @@ Ask for one real story for each. Let the participant choose the example. Do not 
 11. "How did you work out whether it was reportable, and how long did that take?"
 12. "How did you keep track of the deadline? Who was responsible for it?"
 13. "Has anything ever come close to a deadline and nearly been missed? What did you do?"
-14. "Since the new NDIS Commission Portal opened in October 2026, what has changed in how you lodge reports?" (Note the answer. Verify the portal change separately.)
+14. "Since the NDIS Commission's new incident portal opened in October 2026, what has changed in how you lodge incident reports?" Say the name in full: the Commission portal for incident reports, not the NDIA myplace provider portal for claims and payments. (Note whether the participant used the right portal name. Verify the portal change separately.)
 
 ### 6.2 Audits and assessments
 15. "When were you last audited or assessed against the NDIS Practice Standards? Walk me through how you prepared."
@@ -81,8 +82,8 @@ Ask for one real story for each. Let the participant choose the example. Do not 
 
 ### 6.3 Pain and cost
 18. "Of everything we have talked about, which takes the most time, or causes the most worry?"
-19. "How many hours a month does compliance take across your team? Who does most of it?"
-20. "What does compliance cost you per year now, in staff time, consultants and software? Rough numbers are fine."
+19. "How many hours a month does compliance take across your team? Who does most of it?" Count compliance work only. If the participant includes invoicing or billing, ask them to split it out and record the compliance figure.
+20. "What does compliance cost you per year now, in staff time, consultants and software, excluding invoicing and billing? Rough numbers are fine."
 
 Probe for each cost answer: "What did that cost you, in money or in staff time?"
 
@@ -104,10 +105,12 @@ Willingness to pay (ask only if Q21 scored 6 or above):
 25. "At what monthly price would it feel expensive but still worth buying? At what price would it feel too cheap to trust?" (Van Westendorp style. Record both numbers.)
 26. "Who else would need to agree before you bought something like this?"
 
-Price bands to test (rotate, do not announce them all at once; record which band was shown):
-- Band A: AUD 150 to 250 per month
-- Band B: AUD 250 to 400 per month
-- Band C: AUD 400 to 650 per month
+Price bands to test (ex GST, per month; a candidate set taken from the Phase 0 rehearsal, not a price):
+- Band A: AUD 99
+- Band B: AUD 299
+- Band C: AUD 599
+
+Rotation rule: show each band to at least two small and two medium providers. Rotate bands within each size segment, not across the whole sample. Record the band shown before asking the price questions.
 
 Pricing is a hypothesis (decision D3). Treat these numbers as prompts, not as the price.
 
@@ -156,14 +159,14 @@ Hypotheses this supports or breaks (link to PRD section 3 or 8):
 ## 10. Analysis after the 10 interviews
 
 - Count how many interviews name the owner as the buyer (Q1) and how many name a coordinator.
-- For each of the 5 key PRD assumptions below, record "supported", "contradicted" or "unclear", with the interview IDs:
+- For each of the 5 key PRD assumptions below, record "consistent with", "contradicted" or "unclear", with the interview IDs and the count (for example, 6 of 10). Use "consistent with" rather than "supported": ten interviews test these claims only in part. The five assumptions are:
   1. Providers lose time or money to compliance work each month.
   2. A provider has had a near-missed incident deadline or an audit gap in the last 12 months.
   3. Providers would pay for a readiness and reminders tool, rather than a consultant.
   4. Providers would accept AI-drafted policies if a person must approve them.
   5. Small and medium providers have different buying triggers.
 - Pilot commitments (Phase 0 exit gate): at least 5 providers agree in writing to a paid or priced pilot. Ask for this at the follow-up, not in the interview.
-- Exit gate rule (plan section 2): fewer than 3 pilot commitments means stop or pivot before building. Record the reason.
+- Exit gate rule (plan section 2): 5 or more written commitments proceed. 3 or 4 proceed only with one named segment and conditions. Fewer than 3 stop or pivot before building. Conditional commitments do not count toward 5 until the condition clears.
 
 ## 11. Known limits of this script
 
