@@ -8,7 +8,7 @@ Date: 2026-10-22
 
 Option B chosen: a standalone product with a Linkhaus endorsement. Linkhaus is the owner's business. Ozzie AI was an inspiration, not the parent.
 
-Open: product name. It must not collide with "NDIS Wizard by Ozzie AI."
+Open: product name. Preferred candidate: Hauskeep (section 5b). It must not collide with "NDIS Wizard by Ozzie AI" and needs the risk checks in 5b.
 
 ## 2. Context
 
@@ -55,6 +55,32 @@ A quick search is not a clearance search. Each shortlisted name needs a full IP 
 | Qualisure | Registered marks QUALI-SURE (classes 1, 2, 6, 7, 9, 35, 37, 40, 42, 45) and a pending accreditation mark | Caution. Similar sound, and an accreditation program name in the same field. Avoid |
 | Provisa | Registered, class 45 (visa services). Lapsed similar mark | Caution. Different field, but a similar name is registered. Avoid |
 | Clearwell | Registered, class 9 (software, Veritas Technologies) | Drop. Direct conflict with software |
+
+## 5b. Linkhaus-based names (2026-10-22)
+
+Preferred candidate: **Hauskeep** (Haus from Linkhaus, plus keep; plays on housekeeping).
+
+| Name | Quick search | Notes |
+|---|---|---|
+| Hauskeep | No AU records | Preferred. Domain DNS shows no record for .com.au, .com, .io or .app. DNS does not confirm registration, so check with a registrar |
+| Linkward | No records | Second choice |
+| Linkkeep | No records | Third choice |
+| Linkstead | No records | Fourth choice |
+| Hausward | No records | Alternative |
+| Linkwise | Removed (non-renewal), class 9 | Avoid. Field may still be in use |
+| Linkwarden | No register record | Avoid. Open-source bookmarking product |
+| Haustead | Removed and lapsed marks, class 41 | Avoid. Family surname and unrelated field |
+
+Risks for Hauskeep:
+1. **Sound-alike of Housekeep.** Housekeep (housekeep.com) is an active UK home-cleaning marketplace on Trustpilot and LinkedIn. It has no Australian trade mark record in the quick search. Check whether it trades in Australia. Passing-off and confusion risk must go to counsel before launch.
+2. **Spelling.** Providers may type "Housekeep" and land on the wrong business. Buy the common misspellings if the name is confirmed.
+3. **Haus.** Linkhaus shares the root. This is intended, but "Haus" also reads as German. Test with providers.
+
+Before Hauskeep is confirmed:
+- Full IP Australia search, including phonetic variants (Housekeep, Hauskeep, Hauskeeper) in classes 9, 35, 42 and 44.
+- Registrar check for hauskeep.com.au and hauskeep.com, plus social handles.
+- Counsel review (legal brief question 14), including the Housekeep risk.
+- File a trade mark application for Linkhaus in the relevant classes. The product mark is only as strong as the parent.
 
 ## 6. Next steps
 
