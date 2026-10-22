@@ -4,15 +4,17 @@ Supports: scope decisions D7 and D8, plan task 0.6
 Status: Draft v0.1, options for decision
 Date: 2026-10-22
 
-## 1. Decision needed
+## 1. Decision (2026-10-22)
 
-Choose how the readiness product relates to Linkhaus, and choose a product name that does not collide with the existing "NDIS Wizard by Ozzie AI" product.
+Option B chosen: a standalone product with a Linkhaus endorsement. Linkhaus is the owner's business. Ozzie AI was an inspiration, not the parent.
+
+Open: product name. It must not collide with "NDIS Wizard by Ozzie AI."
 
 ## 2. Context
 
-- Linkhaus is the parent name used in the Phase 0 rehearsal file. Confirm this is the correct parent entity before the brand is built.
+- Linkhaus is the owner's business and the parent. Confirm the legal entity name before the brand is built.
 - A live product named "NDIS Wizard by Ozzie AI" is marketed at ozzieai.com.au/ndis. Per the owner, it is a different product. Do not reuse the name.
-- Rainbow Connections Disability Services is an NDIS provider account in ShiftCare. It could be a design partner or a source of the first pilot. Do not use its data without an explicit decision.
+- Rainbow Connections Disability Services is an NDIS provider account in ShiftCare. It is not an official partner. The owner may be interested in a partnership. See section 8.
 
 ## 3. Architecture options
 
@@ -44,6 +46,16 @@ Recommendation for discussion: option B, with a separate company holding the pro
 
 A quick search is not a clearance search. Each shortlisted name needs a full IP Australia search covering similar marks and classes 9, 35, 42 and 44 (software, business services, and health-related services), plus an attorney review.
 
+## 5a. Example names checked (IP Australia quick search, 2026-10-22)
+
+| Candidate | Quick search result | Assessment |
+|---|---|---|
+| Stewardly | No records | Best of this batch. Suggests stewardship of participant care. Run full search |
+| Careguard | Registered, class 5 (Care Essentials Pty Ltd) | Caution. Close in sound and meaning. Class 5 is pharmaceutical and health products, so direct conflict is less likely, but counsel should confirm |
+| Qualisure | Registered marks QUALI-SURE (classes 1, 2, 6, 7, 9, 35, 37, 40, 42, 45) and a pending accreditation mark | Caution. Similar sound, and an accreditation program name in the same field. Avoid |
+| Provisa | Registered, class 45 (visa services). Lapsed similar mark | Caution. Different field, but a similar name is registered. Avoid |
+| Clearwell | Registered, class 9 (software, Veritas Technologies) | Drop. Direct conflict with software |
+
 ## 6. Next steps
 
 1. Owner chooses option A, B or C, and confirms the parent entity name.
@@ -54,7 +66,13 @@ A quick search is not a clearance search. Each shortlisted name needs a full IP 
 
 ## 7. Open questions for the owner
 
-- Is Linkhaus the parent company, and does it hold or plan any other brand?
-- What is the relationship between Ozzie AI and Linkhaus? Is Ozzie AI a separate business?
-- Should the readiness product be sold under the Ozzie AI brand instead, given it already uses the NDIS space?
-- Is Rainbow Connections a provider you control, and would you accept it as a design partner?
+- Legal name of the Linkhaus entity, and whether the product gets its own company (counsel question 13).
+- Confirm "Stewardly" (or name an alternative) for the full search.
+
+## 8. Partnership with Rainbow Connections (not an official partner)
+
+The owner may be interested in a partnership. Before any agreement:
+1. Keep it arm's length. A partner that is also a pilot customer or data source creates a conflict of interest. Put terms in writing.
+2. Do not use its ShiftCare data, staff records or participant information for product design, testing or marketing without a separate data agreement.
+3. Record the partnership and any shared commercial terms in the scope and plan. Do not treat it as an interview or as Phase 0 demand evidence unless it follows the script and consent rules in 04-phase0-interview-script.md.
+4. Add the partnership to the legal brief (06-legal-scoping-brief.md) as a question on conflicts and data sharing.
