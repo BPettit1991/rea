@@ -92,16 +92,14 @@ VentraIP dashboard check (2026-10-23, owner's screenshot):
 - Domain status: Active. Website status: Claimed, not yet built.
 - Registered: 15 April 2026. Expires: 15 April 2027 (174 days away at the time of the screenshot).
 - Auto-renewal: on. Renewal amount: AUD 22.95 per year.
-- The Renew button is greyed out. That fits the public "Not Currently Eligible For Renewal" status, so the lock is probably a renewal-window restriction rather than a fault. Confirm with VentraIP in writing.
-- Registrant email is a personal Gmail address. Change it to a business address that the company will control.
+- The Renew button is greyed out because renewal is not yet available (owner confirmed, 2026-10-23). This fits the public "Not Currently Eligible For Renewal" status. Resolved.
+- Registrant email is a personal Gmail address. Owner has accepted this for now (personal access to the domain). Revisit when the company is set up.
 
 Public WHOIS still lists Synergy Wholesale as registrar, last modified 16 August 2026. The dashboard shows VentraIP as the service provider. Confirm which registrar holds the record before filing.
 
 Action items:
-1. Confirm in writing with VentraIP that the renewal restriction is expected and that auto-renewal will run on 15 April 2027.
-2. Change the registrant email to a business address.
-3. Decide whether the company holds the domain and mark. Transfer it when the entity exists.
-4. Decide whether to register the defensive variants VentraIP offers (complihaus.xyz, complihaus.world). Low cost, but optional.
+1. Decide whether the company holds the domain and any trade mark. Transfer the domain when the entity exists.
+2. Decide whether to register the defensive variants VentraIP offers (complihaus.xyz, complihaus.world). Low cost, but optional.
 
 Ownership note: the domain is held by the owner as an individual sole trader. Before any trade mark filing, decide whether the company (Linkhaus or a new product company) holds the domain and mark. Transfer the domain when the entity exists.
 
