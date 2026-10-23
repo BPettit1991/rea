@@ -88,6 +88,8 @@ Results recorded 2026-10-23:
 | WHOIS status | serverRenewProhibited, reason "Not Currently Eligible For Renewal" | **Check with the registrar now.** This status can block renewal and needs to be cleared before filing |
 | Social handles (Instagram, LinkedIn, Facebook, TikTok) | Not checked. The sandbox could not reach these sites | Check by hand on each platform |
 
+Registrar reconciliation (2026-10-23): the owner says the domain is held through VentraIP. The public WHOIS record lists Synergy Wholesale as registrar, with name servers at nameserver.net.au. Ask VentraIP to confirm the registrar of record, the expiry date and the cause of the renewal lock, and get the answer in writing. The lock must be cleared before any trade mark filing.
+
 Ownership note: the domain is held by the owner as an individual sole trader. Before any trade mark filing, decide whether the company (Linkhaus or a new product company) holds the domain and mark. Transfer the domain when the entity exists.
 
 Before Complihaus is confirmed:
