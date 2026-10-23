@@ -8,7 +8,7 @@ Date: 2026-10-22
 
 Option B chosen: a standalone product with a Linkhaus endorsement. Linkhaus is the owner's business. Ozzie AI was an inspiration, not the parent.
 
-Open: product name. Preferred candidate: Hauskeep (section 5b). It must not collide with "NDIS Wizard by Ozzie AI" and needs the risk checks in 5b.
+Open: product name. Preferred candidate: Complihaus (section 5b). It must not collide with "NDIS Wizard by Ozzie AI" and needs the risk checks in 5b.
 
 ## 2. Context
 
@@ -56,13 +56,14 @@ A quick search is not a clearance search. Each shortlisted name needs a full IP 
 | Provisa | Registered, class 45 (visa services). Lapsed similar mark | Caution. Different field, but a similar name is registered. Avoid |
 | Clearwell | Registered, class 9 (software, Veritas Technologies) | Drop. Direct conflict with software |
 
-## 5b. Linkhaus-based names (2026-10-22)
+## 5b. Product name options (2026-10-22 to 2026-10-23)
 
-Preferred candidate: **Hauskeep** (Haus from Linkhaus, plus keep; plays on housekeeping).
+Chosen name: **Complihaus** (compli, for compliance, plus haus, for the family of Linkhaus). Replaces Hauskeep, which was dropped on 2026-10-23 after the owner confirmed they hold complihaus.com.au.
 
 | Name | Quick search | Notes |
 |---|---|---|
-| Hauskeep | No AU records | Preferred. Domain DNS shows no record for .com.au, .com, .io or .app. DNS does not confirm registration, so check with a registrar |
+| Complihaus | No AU records (Complihaus, Compli haus, Complyhaus) | Chosen. complihaus.com.au has no DNS record, but the owner holds it. Confirm registration in the registrar |
+| Hauskeep | No AU records | Dropped. Sound-alike of Housekeep (UK trading brand) |
 | Linkward | No records | Second choice |
 | Linkkeep | No records | Third choice |
 | Linkstead | No records | Fourth choice |
@@ -71,16 +72,17 @@ Preferred candidate: **Hauskeep** (Haus from Linkhaus, plus keep; plays on house
 | Linkwarden | No register record | Avoid. Open-source bookmarking product |
 | Haustead | Removed and lapsed marks, class 41 | Avoid. Family surname and unrelated field |
 
-Risks for Hauskeep:
-1. **Sound-alike of Housekeep.** Housekeep (housekeep.com) is an active UK home-cleaning marketplace on Trustpilot and LinkedIn. It has no Australian trade mark record in the quick search. Check whether it trades in Australia. Passing-off and confusion risk must go to counsel before launch.
-2. **Spelling.** Providers may type "Housekeep" and land on the wrong business. Buy the common misspellings if the name is confirmed.
-3. **Haus.** Linkhaus shares the root. This is intended, but "Haus" also reads as German. Test with providers.
+Risks for Complihaus:
+1. **Descriptive term.** "Compli" points straight at compliance, so the mark is weak on its own. Distinctiveness will rest on the "haus" element and on use. Counsel to advise.
+2. **Other users of the name.** A Swiss local publication (Fricktal info, 2015) refers to "Complihaus Liebrüti", apparently a Swiss business or facility. It is not Australian, but counsel should confirm it has no Australian reach.
+3. **Website.** complihaus.com is an unpaid, unavailable Shopify store. It is not an active business, but its owner is unknown. Check the registrant before any trade mark filing.
+4. **Family with Linkhaus.** Shared "haus" root is intended. Filing for Linkhaus first makes the family stronger.
 
-Before Hauskeep is confirmed:
-- Full IP Australia search, including phonetic variants (Housekeep, Hauskeep, Hauskeeper) in classes 9, 35, 42 and 44.
-- Registrar check for hauskeep.com.au and hauskeep.com, plus social handles.
-- Counsel review (legal brief question 14), including the Housekeep risk.
-- File a trade mark application for Linkhaus in the relevant classes. The product mark is only as strong as the parent.
+Before Complihaus is confirmed:
+- Full IP Australia search, including phonetic variants (Complihaus, Complyhaus, Complihouse) in classes 9, 35, 42 and 44.
+- Registrar check that complihaus.com.au is registered to the owner, plus social handles.
+- Counsel review (legal brief question 14a), including the Swiss and .com uses.
+- File a trade mark application for Complihaus and Linkhaus in the relevant classes. The product mark is only as strong as the parent.
 
 ## 6. Next steps
 
