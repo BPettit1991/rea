@@ -78,6 +78,18 @@ Risks for Complihaus:
 3. **Website.** complihaus.com is an unpaid, unavailable Shopify store. It is not an active business, but its owner is unknown. Check the registrant before any trade mark filing.
 4. **Family with Linkhaus.** Shared "haus" root is intended. Filing for Linkhaus first makes the family stronger.
 
+Results recorded 2026-10-23:
+
+| Check | Result | Action |
+|---|---|---|
+| IP Australia quick search: Complihaus, Complihouse, Complyhaus | No records for any variant | Full search still required (phonetic and class variants) |
+| complihaus.com.au DNS | No A record | Website not yet live. Expected before launch |
+| WHOIS complihaus.com.au (public record) | Registered. Registrar: Synergy Wholesale. Registrant: individual sole trader (the owner). Name servers at nameserver.net.au | Confirm expiry date with the registrar |
+| WHOIS status | serverRenewProhibited, reason "Not Currently Eligible For Renewal" | **Check with the registrar now.** This status can block renewal and needs to be cleared before filing |
+| Social handles (Instagram, LinkedIn, Facebook, TikTok) | Not checked. The sandbox could not reach these sites | Check by hand on each platform |
+
+Ownership note: the domain is held by the owner as an individual sole trader. Before any trade mark filing, decide whether the company (Linkhaus or a new product company) holds the domain and mark. Transfer the domain when the entity exists.
+
 Before Complihaus is confirmed:
 - Full IP Australia search, including phonetic variants (Complihaus, Complyhaus, Complihouse) in classes 9, 35, 42 and 44.
 - Registrar check that complihaus.com.au is registered to the owner, plus social handles.

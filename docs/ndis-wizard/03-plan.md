@@ -34,7 +34,7 @@ Hard rule: no build work starts on FR-3 (AI drafts) or FR-4 (incidents) before t
 | 0.3 | Legal scoping call with a privacy and disability-sector lawyer: AI-drafted policies, liability, privacy, price data licensing | You | Written advice on risks and required wording |
 | 0.4 | Read the Commission's current incident guidance and the new portal documentation; confirm the 24-hour and 5-day rules and the 12 October 2026 portal boundary | You or advisor | Rule table signed off in writing |
 | 0.5 | Confirm NDIA claim channels and whether third-party submission is permitted. Check whether the Support Catalogue can be shown in a SaaS product | You | Written answer; if negative, claim export moves out of the plan |
-| 0.6 | Trademark search for "NDIS Wizard" and availability of the domain and social handles | You | Go or no-go on the name. Status 2026-10-23: product name is Complihaus. The owner holds complihaus.com.au. Quick IP Australia search finds no records. Run a full search and counsel review (legal brief 14a) |
+| 0.6 | Trademark search for "NDIS Wizard" and availability of the domain and social handles | You | Go or no-go on the name. Status 2026-10-23: product name is Complihaus. IP Australia quick search clear (no records). Domain registered to the owner, but its status needs checking with the registrar. Social handles not yet checked. Next: full search, registrar fix, counsel review (legal brief 14a) |
 | 0.7 | Choose the AI model host and region. Confirm Australian hosting is possible at a workable cost (decision D4) | Engineer | Hosting decision record |
 
 ### Phase 0 exit gate
