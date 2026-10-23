@@ -88,7 +88,20 @@ Results recorded 2026-10-23:
 | WHOIS status | serverRenewProhibited, reason "Not Currently Eligible For Renewal" | **Check with the registrar now.** This status can block renewal and needs to be cleared before filing |
 | Social handles (Instagram, LinkedIn, Facebook, TikTok) | Not checked. The sandbox could not reach these sites | Check by hand on each platform |
 
-Registrar reconciliation (2026-10-23): the owner says the domain is held through VentraIP. The public WHOIS record lists Synergy Wholesale as registrar, with name servers at nameserver.net.au. Ask VentraIP to confirm the registrar of record, the expiry date and the cause of the renewal lock, and get the answer in writing. The lock must be cleared before any trade mark filing.
+VentraIP dashboard check (2026-10-23, owner's screenshot):
+- Domain status: Active. Website status: Claimed, not yet built.
+- Registered: 15 April 2026. Expires: 15 April 2027 (174 days away at the time of the screenshot).
+- Auto-renewal: on. Renewal amount: AUD 22.95 per year.
+- The Renew button is greyed out. That fits the public "Not Currently Eligible For Renewal" status, so the lock is probably a renewal-window restriction rather than a fault. Confirm with VentraIP in writing.
+- Registrant email is a personal Gmail address. Change it to a business address that the company will control.
+
+Public WHOIS still lists Synergy Wholesale as registrar, last modified 16 August 2026. The dashboard shows VentraIP as the service provider. Confirm which registrar holds the record before filing.
+
+Action items:
+1. Confirm in writing with VentraIP that the renewal restriction is expected and that auto-renewal will run on 15 April 2027.
+2. Change the registrant email to a business address.
+3. Decide whether the company holds the domain and mark. Transfer it when the entity exists.
+4. Decide whether to register the defensive variants VentraIP offers (complihaus.xyz, complihaus.world). Low cost, but optional.
 
 Ownership note: the domain is held by the owner as an individual sole trader. Before any trade mark filing, decide whether the company (Linkhaus or a new product company) holds the domain and mark. Transfer the domain when the entity exists.
 
